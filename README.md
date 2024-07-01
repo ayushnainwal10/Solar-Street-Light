@@ -1,4 +1,4 @@
-solar street.png
+![alt text](https://github.com/ayushnainwal10/Solar-Street-Light/blob/main/solar%20street.png)
 
 here is the video link
 
